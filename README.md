@@ -1,5 +1,7 @@
+***SETTINGS***
+
 DHCP Option 60 (Vendor Class)
-dslforum.org,Fast5360-sunrise
+```dslforum.org,Fast5360-sunrise```
 
 VLAN auf WAN 10
 
